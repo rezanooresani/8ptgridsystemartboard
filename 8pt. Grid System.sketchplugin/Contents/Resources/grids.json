@@ -1,0 +1,144 @@
+{
+	"Artboard": [
+		{
+			"name": "Desktop - 1920px",
+			"frame": {
+				"width": "1920",
+				"height": "1080"
+			},
+			"grid": {
+				"totalWidth": "1840",
+				"numberOfColumns": "12",
+				"gutterWidth": "36",				
+				"columnWidth": "120",				
+				"guttersOutside": "0"
+			}
+		},
+		{
+			"name": "Desktop - 1440px",
+			"frame": {
+				"width": "1440",
+				"height": "1024"
+			},
+			"grid": {
+				"totalWidth": "1320",
+				"numberOfColumns": "12",
+				"gutterWidth": "24",				
+				"columnWidth": "88",				
+				"guttersOutside": "0"
+			}
+		},
+		{
+			"name": "Desktop - 1366px",
+			"frame": {
+				"width": "1366",
+				"height": "768"
+			},
+			"grid": {
+				"totalWidth": "1320",
+				"numberOfColumns": "12",
+				"gutterWidth": "24",				
+				"columnWidth": "88",				
+				"guttersOutside": "0"
+			}
+		},
+		{
+			"name": "Desktop - 1280px (Large Column)",
+			"frame": {
+				"width": "1280",
+				"height": "800"
+			},
+			"grid": {
+				"totalWidth": "1224",
+				"numberOfColumns": "12",
+				"gutterWidth": "24",				
+				"columnWidth": "80",				
+				"guttersOutside": "0"
+			}
+		},
+		{
+			"name": "Desktop - 1280px (Medium Column)",
+			"frame": {
+				"width": "1280",
+				"height": "800"
+			},
+			"grid": {
+				"totalWidth": "1128",
+				"numberOfColumns": "12",
+				"gutterWidth": "24",				
+				"columnWidth": "72",				
+				"guttersOutside": "0"
+			}
+		},
+		{
+			"name": "Desktop - 1080px",
+			"frame": {
+				"width": "1080",
+				"height": "720"
+			},
+			"grid": {
+				"totalWidth": "936",
+				"numberOfColumns": "12",
+				"gutterWidth": "24",				
+				"columnWidth": "56",				
+				"guttersOutside": "0"
+			}
+		},
+		{
+			"name": "Tablet Landscape - 1024px",
+			"frame": {
+				"width": "1024",
+				"height": "768"
+			},
+			"grid": {
+				"totalWidth": "936",
+				"numberOfColumns": "12",
+				"gutterWidth": "24",				
+				"columnWidth": "56",				
+				"guttersOutside": "0"
+			}
+		},
+		{
+			"name": "Tablet Portrait - 768px",
+			"frame": {
+				"width": "768",
+				"height": "1024"
+			},
+			"grid": {
+				"totalWidth": "680",
+				"numberOfColumns": "8",
+				"gutterWidth": "24",				
+				"columnWidth": "64",				
+				"guttersOutside": "0"
+			}
+		},
+		{
+			"name": "Mobile - 720px",
+			"frame": {
+				"width": "720",
+				"height": "1024"
+			},
+			"grid": {
+				"totalWidth": "616",
+				"numberOfColumns": "8",
+				"gutterWidth": "24",				
+				"columnWidth": "56",				
+				"guttersOutside": "0"
+			}
+		},
+		{
+			"name": "Mobile - 375px",
+			"frame": {
+				"width": "375",
+				"height": "812"
+			},
+			"grid": {
+				"totalWidth": "328",
+				"numberOfColumns": "4",
+				"gutterWidth": "24",				
+				"columnWidth": "64",				
+				"guttersOutside": "0"
+			}
+		}
+	]
+}

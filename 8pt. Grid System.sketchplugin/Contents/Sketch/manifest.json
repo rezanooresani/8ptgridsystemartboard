@@ -1,0 +1,26 @@
+{
+  "author" : "Reza Nooresani",
+  "commands" : [
+    {
+      "script" : "script.js",
+      "name" : "8pt. Grid System Artboard",
+      "handlers" : {
+        "run" : "onRun"
+      },
+      "identifier" : "com.bohemiancoding.sketch.runscriptidentifier"
+    }
+  ],
+  "menu" : {
+    "title" : "8pt. Grid System Artboard",
+    "items" : [
+      "com.bohemiancoding.sketch.runscriptidentifier"
+    ],
+    "isRoot": true
+  },
+  "identifier" : "com.example.sketch.08106ef6-5c0c-45af-a6b6-1b737446e173",
+  "description" : "Create your 8pt grid artboard with the preset selection",
+  "authorEmail" : "reza.nooresani@vmlyr.com",  
+  "name" : "8pt. Grid System Artboard",
+  "homepage": "https://github.com/rezanooresani/8ptgridsystemartboard",
+  "icon" : "icon.png"
+}
