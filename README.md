@@ -1,6 +1,6 @@
 # 8pt. Grid System Artboard
 
-Easily add 8pt. grid system preset artboards to your document
+Easily add 8pt. grid system preset artboards to your Sketch document
 
 <img src="assets/icon.png" width="100">
 
@@ -10,4 +10,4 @@ Easily add 8pt. grid system preset artboards to your document
 
 ## More Info
 
-Rearrange Artboards is maintained by Reza Nooresani, follow me [@rezasan__](https://instagram.com/rezasan__)
+8pt. Grid System Artboard is maintained by Reza Nooresani, follow me [@rezasan__](https://instagram.com/rezasan__)
